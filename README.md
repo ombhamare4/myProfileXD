@@ -6,4 +6,4 @@
   <p>Whats up</p>
 <div>
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ombhamare4&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ombhamare4&theme=dark&background=000000)](https://git.io/streak-stats)" alt="profile">
